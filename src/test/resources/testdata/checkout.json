@@ -1,0 +1,16 @@
+{
+  "deliveryFee": "5.99",
+  "addresses": {
+    "shipping": {
+      "fullName": "Jane Tester", "address1": "Main Street 1", "address2": "", "city": "Prague",
+      "state": "", "zip": "11000", "country": "Czech Republic"
+    },
+    "billing": {
+      "fullName": "John Billing", "address1": "Billing Road 7", "address2": "", "city": "Brno",
+      "state": "", "zip": "60200", "country": "Czech Republic"
+    }
+  },
+  "cards": {
+    "valid": { "holder": "Alex Cardholder", "number": "4111111111111111", "expiry": "0330", "securityCode": "123" }
+  }
+}

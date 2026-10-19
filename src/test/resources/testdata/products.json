@@ -1,0 +1,21 @@
+{
+  "products": {
+    "backpack": {
+      "name": { "android": "Sauce Labs Backpack", "ios": "Sauce Labs Backpack - Black" },
+      "price": "29.99",
+      "colors": ["Blue", "Gray"]
+    },
+    "fleeceJacket": {
+      "name": { "android": "Sauce Labs Fleece Jacket", "ios": "Sauce Labs Fleece Jacket - Red" },
+      "price": "49.99"
+    }
+  },
+  "familyPrices": {
+    "Sauce Labs Backpack": "29.99",
+    "Sauce Labs Bike Light": "9.99",
+    "Sauce Labs Bolt T-Shirt": "15.99",
+    "Sauce Labs Fleece Jacket": "49.99",
+    "Sauce Labs Onesie": "7.99",
+    "Test.allTheThings() T-Shirt": "15.99"
+  }
+}

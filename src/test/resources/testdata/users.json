@@ -1,0 +1,6 @@
+{
+  "standard": {
+    "username": { "android": "bod@example.com", "ios": "bob@example.com" },
+    "password": "10203040"
+  }
+}

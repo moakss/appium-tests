@@ -1,0 +1,5 @@
+{
+  "login.usernameRequired": "Username is required",
+  "login.passwordRequired": { "android": "Enter Password", "ios": "Password is required" },
+  "payment.invalidValue": "Value looks invalid."
+}

@@ -1,0 +1,8 @@
+{
+  "android": [
+    { "name": "Android Emulator", "udid": "emulator-5554", "driverPort": 8200, "mjpegServerPort": 9200 }
+  ],
+  "ios": [
+    { "name": "iPhone 17 (iOS 27.0)", "udid": "EDFD7AD1-7D21-49D6-B096-D50A72272E32", "driverPort": 8100, "mjpegServerPort": 9100 }
+  ]
+}
